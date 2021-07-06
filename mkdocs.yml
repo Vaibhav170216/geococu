@@ -46,3 +46,6 @@ nav:
     - Report Issues: https://github.com/Vaibhav170216/geococu/issues
     - API Reference:
           - geococu module: geococu.md
+    - Notebooks:
+          - notebooks/ipyleaflet_intro.ipynb
+          - notebooks/folium_intro.ipynb
